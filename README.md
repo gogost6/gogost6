@@ -1,5 +1,14 @@
 ### Hi there 👋
+My name is George and I'm a recently graduated SoftUni student in the professional path for JavaScript. I'm in love with JavaScript and React, so I actively search for jobs in the field.
 
+## &#x1f4c8; My GitHub Stats
+<a href="https://github.com/gogost6/gogost6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogost6&title_color=000000&text_color=000000" />
+</a>
+
+<a href="https://github.com/gogost6/gogost6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gogost6&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="gogost6's GitHub Stats" />
+</a>
 <!--
 **gogost6/gogost6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
