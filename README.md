@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is George and I'm a recently graduated SoftUni student in the professional path for JavaScript. I'm in love with JavaScript and React, so I actively search for jobs in the field.
+My name is Georgi and I'm a recently graduated SoftUni student in the professional path for JavaScript. I'm in love with JavaScript and React, so I actively search for jobs in the field.
 
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/gogost6/gogost6">
