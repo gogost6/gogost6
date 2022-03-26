@@ -9,9 +9,8 @@ My name is Georgi and I'm a recently graduated SoftUni student in the profession
 <a href="https://github.com/gogost6/gogost6">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gogost6&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="gogost6's GitHub Stats" />
 </a>
-
-
-
+<br>
+<br>
 - 🔭 I’m currently working on personal projects to upgrade my knowledge.
 - 🌱 I’m sometimes learning web3 and ETH.
 - 📫 How to reach me: g.stoilkov.business@gmail.com
