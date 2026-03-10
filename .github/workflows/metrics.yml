@@ -18,11 +18,16 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: gogost6
 
-          base: header
+          base: header, repositories
 
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_sort: stars
           plugin_topics_limit: 50
+
           plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          commits_authoring: gogost6, g.stoilkov.business@gmail.com
+
           plugin_traffic: yes
