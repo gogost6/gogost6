@@ -1,0 +1,26 @@
+name: Metrics
+
+on:
+  schedule: [{ cron: "0 0 * * *" }] # every day
+  workflow_dispatch:
+  push: { branches: ["main", "master"] }
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: gogost6
+
+          base: header
+
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_sort: stars
+          plugin_topics_limit: 12
